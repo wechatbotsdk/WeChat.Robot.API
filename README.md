@@ -1,7 +1,7 @@
 # 个人微信号二次开发sdk协议,微信个人号开发API接口
 微信SDK程序概要说明
 ---------------------------------
-微信开发sdk,微信二次开发sdk,非微信ipad协议、非mac协议,非安卓协议，api可实现微信99%功能；      
+本微信开发sdk,微信二次开发sdk,非微信ipad协议、非mac协议,非安卓协议，api可实现微信99%功能；      
 无需扫码登录、可收发朋友圈、查看朋友圈、朋友圈互动点赞、评论、      
 好友列表、微信消息收发、发文本消息、图片消息、名片消息、动图表情、发文件、删好友      
 添加好友、微信转账、微信红包接收、分享小程序、分享名片、加通讯录好友、微信收藏、微信标签等！      
@@ -23,11 +23,13 @@ SDK接入简单、兼容性好、拓展性强，始终支持微信官方最新�
 
 微信sdk技术方案特色
 --------------------
-1、无需扫码登陆微信：区别传统的网页协议版微信和ipad协议版微信，我们的解决方案是不需要扫码登陆微信的，更快捷，更高效！
+1、无需扫码登陆微信：区别传统的网页协议版微信和ipad协议版微信，我们的解决方案是不需要扫码登陆微信的，更快捷，更高效,更安全！
 
-2、提供二次开发SDK：我们为合作伙伴提供完整的二次开发sdk，使用sdk可研发各类基于微信的营销系统及软件等！
+2、超强二次开发SDK：我们为合作伙伴提供完整全面的二次开发sdk，使用sdk可研发各类基于微信的营销系统及软件等！
 
-3、2W多设备稳定商用：目前已有多家合作伙伴与我们签约合作，累计出货20000多台设备，所有设备稳定！
+3、提供二次开发基础源码：我们为合作伙伴提供sdk的服务端调用源码及pc端演示demo源码，方便二次开发！
+
+4、2W多设备稳定商用：目前已有多家合作伙伴与我们签约合作，累计出货20000多台设备，所有设备稳定！
 
 
 微信SDK接口API全部协议定义
@@ -304,13 +306,13 @@ ChatRoomMembersNotice = 2034;
 --------------------
 咨询请加微信tangjinjinwx
 
-以下为PC端演示demo,源码已上传，二次开发有疑问请加问下
+以下为PC端演示demo,源码已上传到github，二次开发有疑问请加微信tangjinjinwx
 --------------------
-![Image text](https://img-blog.csdnimg.cn/20190308153539202.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNjk3NjI=,size_16,color_FFFFFF,t_70)
-![Image text](https://img-blog.csdnimg.cn/20190308152747253.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNjk3NjI=,size_16,color_FFFFFF,t_70)
-![Image text](https://img-blog.csdnimg.cn/20190308152834149.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNjk3NjI=,size_16,color_FFFFFF,t_70)
-![Image text](https://img-blog.csdnimg.cn/2019030815285169.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNjk3NjI=,size_16,color_FFFFFF,t_70)
-![Image text](https://img-blog.csdnimg.cn/20190308152903443.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTEyNjk3NjI=,size_16,color_FFFFFF,t_70)
+![Image text](http://www.yunlauncher.com/kf/1.png)
+![Image text](http://www.yunlauncher.com/kf/2.png)
+![Image text](http://www.yunlauncher.com/kf/3.png)
+![Image text](http://www.yunlauncher.com/kf/4.png)
+![Image text](http://www.yunlauncher.com/kf/5.png)
 
 微信sdk方案可实现功能说明
 --------------
